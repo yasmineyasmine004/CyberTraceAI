@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+data/raw/
+data/processed/*.joblib
+data/processed/*.pkl
+data/processed/*.parquet
+data/processed/*.csv
+
+# Generated outputs and model artifacts
+data/processed/
