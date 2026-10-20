@@ -2,12 +2,11 @@
 
 AI-assisted network intrusion detection and security incident analysis using CICIDS2017 network-flow data.
 
-## Team
-- Team name: [ADD TEAM NAME]
-- Team members: [ADD ALL TEAM MEMBERS]
+## Participant
+- Participant name: ZERIGUI Alia Yasmine
 
-## Selected Problem Statement
-[INSERT THE EXACT PROBLEM STATEMENT PROVIDED BY THE HACKATHON ORGANIZERS]
+## Problem Statement
+Traditional security systems can struggle with previously unseen attacks because they often depend on known signatures or fixed rules. Abnormal behaviour may appear as subtle changes across users, devices, processes or network activity and may only become meaningful when several events are considered together.
 
 ## Problem Description
 Network traffic can contain malicious activities that are difficult to identify through manual inspection. CyberTrace AI explores machine-learning-based anomaly detection and specialized PortScan classification to help analysts investigate suspicious network flows.
