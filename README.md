@@ -84,9 +84,6 @@ The internal Random Forest validation produced the following confusion matrix, w
 
 This corresponds to one missed PortScan in the reported validation split. These results are preliminary and should not be interpreted as independently verified real-world performance. Isolation Forest performance depends on the selected threshold and traffic distribution.
 
-## Screenshots and Demo
-- Dashboard screenshots: [ADD SCREENSHOTS TO THE REPOSITORY]
-- Demo video or link: [ADD LINK IF AVAILABLE]
 
 ## Limitations
 - Validation is based on CICIDS2017 and does not establish performance on independent real-world traffic.
